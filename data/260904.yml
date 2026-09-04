@@ -1,0 +1,61 @@
+about:
+  description:
+  |
+    Scapy: the Python-based interactive packet manipulation program & library.
+  license: GPL-2.0
+  homepage: https://scapy.net
+  head: 03f455c
+  archived: false
+  latestVersion: v2.7.0
+  collectedAt: 2026-09-04T04:39:48Z
+timeline:
+  created: 2015-10-01
+  lastCommit: 2026-09-03
+  lastRelease: 2025-12-26
+popularity:
+  star: 12517
+  watcher: 222
+  fork: 2243
+  release: 16
+  contributor: 473
+  pullRequest: 576
+  issue: 1779
+language:
+  Python: 9930073
+  Shell: 12128
+  PowerShell: 5424
+  Batchfile: 1291
+totalBytes: 9948916
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 43
+    openPR: 19
+    closedIssue: 1
+    openIssue: 3
+    commit: 63
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 85
+    openPR: 26
+    closedIssue: 8
+    openIssue: 5
+    commit: 111
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 127
+    openPR: 31
+    closedIssue: 14
+    openIssue: 9
+    commit: 165
+  last360d:
+    since: 2025-09-09
+    release: 1
+    mergedPR: 178
+    openPR: 37
+    closedIssue: 43
+    openIssue: 14
+    commit: 233
