@@ -7,7 +7,7 @@ about:
   head: 6f158c0
   archived: false
   latestVersion: v2.7.0
-  collectedAt: 2026-09-04T20:18:27Z
+  collectedAt: 2026-09-04T20:24:53Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-04
@@ -84,7 +84,7 @@ total:
   commit: 6947
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-09-04T20:18:31Z
+collectedAt: 2026-09-04T20:24:58Z
 loc:
   Python:
     code: 212877
