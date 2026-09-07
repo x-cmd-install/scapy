@@ -5,18 +5,18 @@ about:
   head: 21c4d76
   archived: false
   latestVersion: "v2.7.0"
-  collectedAt: 2026-09-07T04:56:25Z
+  collectedAt: 2026-09-07T19:33:36Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-06
   lastRelease: 2025-12-26
 popularity:
-  star: 12523
+  star: 12525
   watcher: 222
   fork: 2243
   release: 16
   contributor: 473
-  pullRequest: 3362
+  pullRequest: 3363
   issue: 1779
 language:
   Python: 9930420
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 43
-    openPR: 18
+    openPR: 19
     closedIssue: 0
     openIssue: 2
     commit: 60
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 65
-    openPR: 22
+    openPR: 23
     closedIssue: 5
     openIssue: 4
     commit: 89
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 86
-    openPR: 26
+    openPR: 27
     closedIssue: 8
     openIssue: 5
     commit: 109
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 0
     mergedPR: 127
-    openPR: 31
+    openPR: 32
     closedIssue: 14
     openIssue: 9
     commit: 163
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 1
     mergedPR: 179
-    openPR: 37
+    openPR: 38
     closedIssue: 43
     openIssue: 14
     commit: 230
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 3
     mergedPR: 350
-    openPR: 44
+    openPR: 45
     closedIssue: 133
     openIssue: 25
     commit: 409
 total:
   release: 16
   mergedPR: 2786
-  openPR: 74
+  openPR: 75
   closedIssue: 1714
   openIssue: 65
   commit: 6948
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-09-07T04:56:34Z
+collectedAt: 2026-09-07T19:33:46Z
 loc:
   Python:
     code: 212885
@@ -267,7 +267,7 @@ checks:
       - 'Warn: 27 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:35+00:00
+  collectedAt: 2026-09-07T19:33:47+00:00
   platform:
     darwin/arm64:
       name:  null
