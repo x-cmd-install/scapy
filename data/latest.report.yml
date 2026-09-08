@@ -5,7 +5,7 @@ about:
   head: c935a75
   archived: false
   latestVersion: "v2.7.0"
-  collectedAt: 2026-09-08T02:14:02Z
+  collectedAt: 2026-09-08T04:50:30Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-07
@@ -82,7 +82,7 @@ total:
   commit: 6954
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-09-08T02:14:12Z
+collectedAt: 2026-09-08T04:50:40Z
 loc:
   Python:
     code: 212920
