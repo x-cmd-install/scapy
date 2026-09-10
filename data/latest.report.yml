@@ -2,12 +2,12 @@ about:
   description: "Scapy: the Python-based interactive packet manipulation program & library."
   license: GPL-2.0
   homepage: https://scapy.net
-  head: 77d9498
+  head: 190b4ba
   archived: false
   latestVersion: "v2.7.0"
   latestRelease: "v2.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:55:40Z
+  collectedAt: 2026-09-10T22:55:32Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-10
@@ -15,78 +15,78 @@ timeline:
   lastRelease: 2025-12-26
   lastPrerelease: 
 popularity:
-  star: 12532
+  star: 12533
   watcher: 222
   fork: 2244
   release: 16
   contributor: 473
-  pullRequest: 3375
+  pullRequest: 3376
   issue: 1779
 language:
-  Python: 9992812
+  Python: 9992861
   Shell: 12128
   PowerShell: 5424
   Batchfile: 1291
-totalBytes: 10011655
+totalBytes: 10011704
 recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 53
+    mergedPR: 54
     openPR: 17
     closedIssue: 0
     openIssue: 1
-    commit: 124
+    commit: 125
   last60d:
     since: 2026-07-12
     release: 0
-    mergedPR: 77
+    mergedPR: 78
     openPR: 21
-    closedIssue: 5
-    openIssue: 4
-    commit: 153
+    closedIssue: 6
+    openIssue: 3
+    commit: 154
   last90d:
     since: 2026-06-12
     release: 0
-    mergedPR: 96
+    mergedPR: 97
     openPR: 24
-    closedIssue: 8
-    openIssue: 5
-    commit: 173
+    closedIssue: 9
+    openIssue: 4
+    commit: 174
   last180d:
     since: 2026-03-14
     release: 0
-    mergedPR: 139
+    mergedPR: 140
     openPR: 29
-    closedIssue: 13
-    openIssue: 9
-    commit: 227
+    closedIssue: 14
+    openIssue: 8
+    commit: 228
   last360d:
     since: 2025-09-15
     release: 1
-    mergedPR: 189
+    mergedPR: 190
     openPR: 35
-    closedIssue: 42
-    openIssue: 14
-    commit: 294
+    closedIssue: 43
+    openIssue: 13
+    commit: 295
   last720d:
     since: 2024-09-20
     release: 3
-    mergedPR: 361
+    mergedPR: 362
     openPR: 42
-    closedIssue: 132
-    openIssue: 25
-    commit: 473
+    closedIssue: 133
+    openIssue: 24
+    commit: 474
 total:
   release: 16
-  mergedPR: 2799
+  mergedPR: 2800
   openPR: 72
-  closedIssue: 1714
-  openIssue: 65
-  commit: 7012
+  closedIssue: 1715
+  openIssue: 64
+  commit: 7013
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-09-10T20:55:51Z
+collectedAt: 2026-09-10T22:55:50Z
 loc:
   Python:
     code: 214047
