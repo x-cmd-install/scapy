@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.7.0"
   latestRelease: "v2.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:42:20Z
+  collectedAt: 2026-09-10T20:55:40Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-09-10
@@ -86,7 +86,7 @@ total:
   commit: 7012
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-09-10T16:42:31Z
+collectedAt: 2026-09-10T20:55:51Z
 loc:
   Python:
     code: 214047
