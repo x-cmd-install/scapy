@@ -51,22 +51,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2800 · **Open PRs**: 72 · **Closed issues**: 1715 · **Open issues**: 64 · **Commits**: 7013
+- **Releases**: 16 · **Merged PRs**: 2800 · **Open PRs**: 73 · **Closed issues**: 1715 · **Open issues**: 64 · **Commits**: 7013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 54 | 17 | 0 | 1 | 125 |
-| last60d | 2026-07-12 | 0 | 78 | 21 | 6 | 3 | 154 |
-| 90d | 2026-06-12 | 0 | 97 | 24 | 9 | 4 | 174 |
-| last180d | 2026-03-14 | 0 | 140 | 29 | 14 | 8 | 228 |
-| 360d | 2025-09-15 | 1 | 190 | 35 | 43 | 13 | 295 |
-| last720d | 2024-09-20 | 3 | 362 | 42 | 133 | 24 | 474 |
+| 30d | 2026-08-12 | 0 | 54 | 16 | 0 | 1 | 125 |
+| last60d | 2026-07-13 | 0 | 78 | 22 | 6 | 3 | 154 |
+| 90d | 2026-06-13 | 0 | 97 | 25 | 9 | 4 | 174 |
+| last180d | 2026-03-15 | 0 | 140 | 30 | 14 | 8 | 228 |
+| 360d | 2025-09-16 | 1 | 189 | 36 | 42 | 13 | 295 |
+| last720d | 2024-09-21 | 3 | 362 | 43 | 133 | 24 | 474 |
 
 ## Distribution status
 
-Reported by **153** distros on [repology.org](https://repology.org/project/scapy). **48** are ✅ on the latest upstream release, **88** are ⚠️ on an older version.
+Reported by **153** distros on [repology.org](https://repology.org/project/scapy). **49** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:57Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:52:37Z._
