@@ -14,11 +14,11 @@ x install scapy
 
 ## Code insight
 
-Total: **224,649** lines of code across **472** files in the top 5 languages.
+Total: **224,810** lines of code across **473** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 214,225 | 18,322 | 35,794 | 408 |
+| Python | 214,386 | 18,345 | 35,810 | 409 |
 | ReStructuredText | 8,532 | 0 | 3,274 | 34 |
 | Svg | 864 | 28 | 34 | 20 |
 | Jupyter | 302 | 198 | 78 | 7 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.0` (2025-12-26)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 
 ## Popularity
 
-- **Stars**: 12,540 · **Forks**: 2,245 · **Open issues**: 1,779 · **Contributors**: 473
+- **Stars**: 12,540 · **Forks**: 2,246 · **Open issues**: 1,781 · **Contributors**: 473
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2803 · **Open PRs**: 72 · **Closed issues**: 1715 · **Open issues**: 64 · **Commits**: 7016
+- **Releases**: 16 · **Merged PRs**: 2807 · **Open PRs**: 72 · **Closed issues**: 1715 · **Open issues**: 66 · **Commits**: 7020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 57 | 13 | 0 | 1 | 128 |
-| last60d | 2026-07-14 | 0 | 81 | 21 | 6 | 3 | 157 |
-| 90d | 2026-06-14 | 0 | 100 | 24 | 9 | 4 | 177 |
-| last180d | 2026-03-16 | 0 | 143 | 29 | 14 | 8 | 231 |
-| 360d | 2025-09-17 | 1 | 192 | 35 | 42 | 13 | 298 |
-| last720d | 2024-09-22 | 3 | 364 | 42 | 133 | 24 | 477 |
+| 30d | 2026-08-14 | 0 | 59 | 13 | 0 | 3 | 132 |
+| last60d | 2026-07-15 | 0 | 85 | 21 | 6 | 5 | 161 |
+| 90d | 2026-06-15 | 0 | 102 | 23 | 9 | 6 | 181 |
+| last180d | 2026-03-17 | 0 | 147 | 29 | 14 | 10 | 235 |
+| 360d | 2025-09-18 | 1 | 196 | 35 | 42 | 15 | 302 |
+| last720d | 2024-09-23 | 3 | 368 | 42 | 133 | 26 | 481 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:44:16Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:05:04Z._
