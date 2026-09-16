@@ -26,13 +26,13 @@ Total: **224,810** lines of code across **473** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,545 · **Forks**: 2,245 · **Open issues**: 1,781 · **Contributors**: 473
+- **Stars**: 12,546 · **Forks**: 2,245 · **Open issues**: 1,781 · **Contributors**: 473
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2807 · **Open PRs**: 72 · **Closed issues**: 1715 · **Open issues**: 66 · **Commits**: 7020
+- **Releases**: 16 · **Merged PRs**: 2807 · **Open PRs**: 73 · **Closed issues**: 1715 · **Open issues**: 66 · **Commits**: 7020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 58 | 13 | 0 | 3 | 124 |
-| last60d | 2026-07-17 | 0 | 82 | 21 | 6 | 5 | 160 |
-| 90d | 2026-06-17 | 0 | 100 | 23 | 9 | 6 | 177 |
-| last180d | 2026-03-19 | 0 | 146 | 28 | 12 | 9 | 231 |
-| 360d | 2025-09-20 | 1 | 195 | 35 | 41 | 15 | 297 |
-| last720d | 2024-09-25 | 3 | 368 | 42 | 133 | 26 | 477 |
+| 30d | 2026-08-17 | 0 | 57 | 14 | 0 | 3 | 124 |
+| last60d | 2026-07-18 | 0 | 82 | 22 | 5 | 5 | 160 |
+| 90d | 2026-06-18 | 0 | 100 | 24 | 9 | 5 | 177 |
+| last180d | 2026-03-20 | 0 | 146 | 29 | 12 | 9 | 231 |
+| 360d | 2025-09-21 | 1 | 193 | 36 | 41 | 15 | 297 |
+| last720d | 2024-09-26 | 3 | 368 | 43 | 133 | 26 | 477 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:16:51Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:10:33Z._
