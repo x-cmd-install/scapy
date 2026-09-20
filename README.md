@@ -4,7 +4,7 @@
 
 Scapy: the Python-based interactive packet manipulation program & library.
 
-![scapy](https://repo.x-cmd.io/scapy.svg)
+[![x-cmd/install — scapy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scapy.svg)](https://x-cmd.com/install/scapy)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.0` (2025-12-26)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 12,549 · **Forks**: 2,246 · **Open issues**: 1,781 · **Contributors**: 472
+- **Stars**: 12,557 · **Forks**: 2,248 · **Open issues**: 1,781 · **Contributors**: 472
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2809 · **Open PRs**: 77 · **Closed issues**: 1715 · **Open issues**: 66 · **Commits**: 7022
+- **Releases**: 16 · **Merged PRs**: 2810 · **Open PRs**: 78 · **Closed issues**: 1715 · **Open issues**: 66 · **Commits**: 7023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 55 | 16 | 0 | 3 | 126 |
-| last60d | 2026-07-20 | 0 | 82 | 24 | 5 | 5 | 162 |
-| 90d | 2026-06-20 | 0 | 101 | 27 | 9 | 5 | 179 |
-| last180d | 2026-03-22 | 0 | 147 | 32 | 12 | 8 | 233 |
-| 360d | 2025-09-23 | 1 | 194 | 40 | 41 | 15 | 299 |
-| last720d | 2024-09-28 | 3 | 368 | 47 | 133 | 26 | 479 |
+| 30d | 2026-08-21 | 0 | 56 | 17 | 0 | 3 | 127 |
+| last60d | 2026-07-22 | 0 | 82 | 25 | 5 | 5 | 163 |
+| 90d | 2026-06-22 | 0 | 100 | 28 | 9 | 5 | 180 |
+| last180d | 2026-03-24 | 0 | 147 | 33 | 11 | 8 | 234 |
+| 360d | 2025-09-25 | 1 | 195 | 41 | 41 | 15 | 300 |
+| last720d | 2024-09-30 | 2 | 368 | 48 | 132 | 26 | 478 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:58:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:27Z._
