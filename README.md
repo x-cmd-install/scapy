@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2834 · **Open PRs**: 73 · **Closed issues**: 1719 · **Open issues**: 66 · **Commits**: 7068
+- **Releases**: 17 · **Merged PRs**: 2834 · **Open PRs**: 74 · **Closed issues**: 1719 · **Open issues**: 66 · **Commits**: 7068
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 41 | 9 | 3 | 3 | 122 |
-| last60d | 2026-08-04 | 1 | 90 | 19 | 5 | 5 | 187 |
-| 90d | 2026-07-05 | 1 | 116 | 22 | 10 | 5 | 213 |
-| last180d | 2026-04-06 | 1 | 165 | 29 | 15 | 8 | 273 |
-| 360d | 2025-10-08 | 2 | 212 | 36 | 41 | 15 | 338 |
-| last720d | 2024-10-13 | 3 | 384 | 43 | 125 | 26 | 516 |
+| 30d | 2026-09-04 | 1 | 41 | 10 | 3 | 3 | 122 |
+| last60d | 2026-08-05 | 1 | 90 | 20 | 5 | 5 | 187 |
+| 90d | 2026-07-06 | 1 | 115 | 23 | 10 | 5 | 213 |
+| last180d | 2026-04-07 | 1 | 164 | 30 | 15 | 8 | 273 |
+| 360d | 2025-10-09 | 2 | 212 | 37 | 41 | 15 | 338 |
+| last720d | 2024-10-14 | 3 | 379 | 44 | 125 | 26 | 516 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:28:23Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:00:17Z._
