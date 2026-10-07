@@ -26,11 +26,11 @@ x install scapy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.8 / 10**
+总评分: **8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 10/29 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ x install scapy
 ## 发布
 
 - **最新版本**: `v2.8.0` (2026-10-02)
-- **最近提交**: 2026-10-02
+- **最近提交**: 2026-10-06
 
 ## 流行度
 
-- **Star**: 12,587 · **Fork**: 2,266 · **开放 issue**: 1,786 · **贡献者**: 477
+- **Star**: 12,592 · **Fork**: 2,266 · **开放 issue**: 1,786 · **贡献者**: 477
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 2834 · **开放 PR**: 80 · **已关闭 issue**: 1719 · **开放 issue**: 67 · **提交数**: 7068
+- **发布数**: 17 · **已合并 PR**: 2835 · **开放 PR**: 79 · **已关闭 issue**: 1719 · **开放 issue**: 67 · **提交数**: 7069
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 40 | 16 | 3 | 4 | 56 |
-| last60d | 2026-08-07 | 1 | 89 | 25 | 5 | 6 | 183 |
-| 90d | 2026-07-08 | 1 | 113 | 29 | 10 | 6 | 209 |
-| last180d | 2026-04-09 | 1 | 164 | 35 | 15 | 9 | 269 |
-| 360d | 2025-10-11 | 2 | 212 | 43 | 41 | 16 | 336 |
-| last720d | 2024-10-16 | 3 | 378 | 50 | 124 | 27 | 510 |
+| 30d | 2026-09-07 | 1 | 41 | 14 | 3 | 4 | 57 |
+| last60d | 2026-08-08 | 1 | 90 | 24 | 3 | 6 | 184 |
+| 90d | 2026-07-09 | 1 | 112 | 28 | 10 | 6 | 210 |
+| last180d | 2026-04-10 | 1 | 163 | 34 | 15 | 9 | 270 |
+| 360d | 2025-10-12 | 2 | 213 | 42 | 41 | 16 | 337 |
+| last720d | 2024-10-17 | 3 | 379 | 49 | 124 | 27 | 511 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ scapy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:33:06Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:13:02Z._

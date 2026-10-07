@@ -26,11 +26,11 @@ Total: **225,879** lines of code across **474** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 10/29 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 12,587 · **Forks**: 2,266 · **Open issues**: 1,786 · **Contributors**: 477
+- **Stars**: 12,592 · **Forks**: 2,266 · **Open issues**: 1,786 · **Contributors**: 477
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2834 · **Open PRs**: 80 · **Closed issues**: 1719 · **Open issues**: 67 · **Commits**: 7068
+- **Releases**: 17 · **Merged PRs**: 2835 · **Open PRs**: 79 · **Closed issues**: 1719 · **Open issues**: 67 · **Commits**: 7069
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 40 | 16 | 3 | 4 | 56 |
-| last60d | 2026-08-07 | 1 | 89 | 25 | 5 | 6 | 183 |
-| 90d | 2026-07-08 | 1 | 113 | 29 | 10 | 6 | 209 |
-| last180d | 2026-04-09 | 1 | 164 | 35 | 15 | 9 | 269 |
-| 360d | 2025-10-11 | 2 | 212 | 43 | 41 | 16 | 336 |
-| last720d | 2024-10-16 | 3 | 378 | 50 | 124 | 27 | 510 |
+| 30d | 2026-09-07 | 1 | 41 | 14 | 3 | 4 | 57 |
+| last60d | 2026-08-08 | 1 | 90 | 24 | 3 | 6 | 184 |
+| 90d | 2026-07-09 | 1 | 112 | 28 | 10 | 6 | 210 |
+| last180d | 2026-04-10 | 1 | 163 | 34 | 15 | 9 | 270 |
+| 360d | 2025-10-12 | 2 | 213 | 42 | 41 | 16 | 337 |
+| last720d | 2024-10-17 | 3 | 379 | 49 | 124 | 27 | 511 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:33:05Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:13:01Z._
