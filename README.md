@@ -14,12 +14,12 @@ x install scapy
 
 ## Code insight
 
-Total: **226,191** lines of code across **475** files in the top 5 languages.
+Total: **227,087** lines of code across **476** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 215,630 | 18,469 | 36,001 | 410 |
-| ReStructuredText | 8,670 | 0 | 3,316 | 35 |
+| Python | 216,534 | 18,477 | 36,155 | 411 |
+| ReStructuredText | 8,662 | 0 | 3,314 | 35 |
 | Svg | 864 | 28 | 34 | 20 |
 | Jupyter | 302 | 198 | 78 | 7 |
 | VimScript | 273 | 54 | 13 | 3 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-02)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 
 ## Popularity
 
-- **Stars**: 12,599 · **Forks**: 2,267 · **Open issues**: 1,787 · **Contributors**: 478
+- **Stars**: 12,599 · **Forks**: 2,267 · **Open issues**: 1,787 · **Contributors**: 479
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2836 · **Open PRs**: 80 · **Closed issues**: 1719 · **Open issues**: 68 · **Commits**: 7070
+- **Releases**: 17 · **Merged PRs**: 2839 · **Open PRs**: 77 · **Closed issues**: 1721 · **Open issues**: 66 · **Commits**: 7073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 30 | 15 | 3 | 5 | 58 |
-| last60d | 2026-08-11 | 1 | 89 | 25 | 3 | 6 | 185 |
-| 90d | 2026-07-12 | 1 | 113 | 29 | 10 | 7 | 211 |
-| last180d | 2026-04-13 | 1 | 160 | 35 | 15 | 9 | 271 |
-| 360d | 2025-10-15 | 2 | 212 | 43 | 41 | 17 | 338 |
-| last720d | 2024-10-20 | 3 | 379 | 50 | 124 | 28 | 511 |
+| 30d | 2026-09-11 | 1 | 30 | 12 | 5 | 3 | 51 |
+| last60d | 2026-08-12 | 1 | 92 | 20 | 5 | 4 | 177 |
+| 90d | 2026-07-13 | 1 | 116 | 26 | 12 | 5 | 213 |
+| last180d | 2026-04-14 | 1 | 162 | 31 | 17 | 7 | 272 |
+| 360d | 2025-10-16 | 2 | 215 | 40 | 43 | 15 | 337 |
+| last720d | 2024-10-21 | 3 | 382 | 47 | 125 | 26 | 514 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:57:11Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:03:58Z._
