@@ -26,13 +26,13 @@ Total: **227,087** lines of code across **476** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8 / 10**
+Overall score: **8.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 10/29 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,602 · **Forks**: 2,266 · **Open issues**: 1,787 · **Contributors**: 479
+- **Stars**: 12,603 · **Forks**: 2,266 · **Open issues**: 1,787 · **Contributors**: 479
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 26 | 12 | 4 | 2 | 0 |
-| last60d | 2026-08-14 | 1 | 89 | 19 | 5 | 4 | 0 |
-| 90d | 2026-07-15 | 1 | 116 | 26 | 12 | 5 | 0 |
-| last180d | 2026-04-16 | 1 | 162 | 31 | 17 | 7 | 0 |
-| 360d | 2025-10-18 | 2 | 215 | 40 | 43 | 15 | 0 |
-| last720d | 2024-10-23 | 3 | 382 | 47 | 125 | 26 | 513 |
+| 30d | 2026-09-14 | 1 | 26 | 12 | 4 | 2 | 51 |
+| last60d | 2026-08-15 | 1 | 89 | 19 | 5 | 4 | 177 |
+| 90d | 2026-07-16 | 1 | 115 | 26 | 12 | 5 | 213 |
+| last180d | 2026-04-17 | 1 | 161 | 31 | 17 | 7 | 272 |
+| 360d | 2025-10-19 | 2 | 215 | 40 | 43 | 15 | 337 |
+| last720d | 2024-10-24 | 3 | 382 | 47 | 125 | 26 | 513 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:05:05Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:02:16Z._

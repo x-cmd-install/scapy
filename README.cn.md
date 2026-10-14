@@ -26,13 +26,13 @@ x install scapy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8 / 10**
+总评分: **8.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 10/29 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install scapy
 
 ## 流行度
 
-- **Star**: 12,602 · **Fork**: 2,266 · **开放 issue**: 1,787 · **贡献者**: 479
+- **Star**: 12,603 · **Fork**: 2,266 · **开放 issue**: 1,787 · **贡献者**: 479
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install scapy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 26 | 12 | 4 | 2 | 0 |
-| last60d | 2026-08-14 | 1 | 89 | 19 | 5 | 4 | 0 |
-| 90d | 2026-07-15 | 1 | 116 | 26 | 12 | 5 | 0 |
-| last180d | 2026-04-16 | 1 | 162 | 31 | 17 | 7 | 0 |
-| 360d | 2025-10-18 | 2 | 215 | 40 | 43 | 15 | 0 |
-| last720d | 2024-10-23 | 3 | 382 | 47 | 125 | 26 | 513 |
+| 30d | 2026-09-14 | 1 | 26 | 12 | 4 | 2 | 51 |
+| last60d | 2026-08-15 | 1 | 89 | 19 | 5 | 4 | 177 |
+| 90d | 2026-07-16 | 1 | 115 | 26 | 12 | 5 | 213 |
+| last180d | 2026-04-17 | 1 | 161 | 31 | 17 | 7 | 272 |
+| 360d | 2025-10-19 | 2 | 215 | 40 | 43 | 15 | 337 |
+| last720d | 2024-10-24 | 3 | 382 | 47 | 125 | 26 | 513 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ scapy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:05:06Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:02:17Z._
