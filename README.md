@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,603 · **Forks**: 2,266 · **Open issues**: 1,787 · **Contributors**: 479
+- **Stars**: 12,606 · **Forks**: 2,266 · **Open issues**: 1,789 · **Contributors**: 479
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2839 · **Open PRs**: 77 · **Closed issues**: 1721 · **Open issues**: 66 · **Commits**: 7073
+- **Releases**: 17 · **Merged PRs**: 2839 · **Open PRs**: 78 · **Closed issues**: 1721 · **Open issues**: 68 · **Commits**: 7073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 26 | 12 | 4 | 2 | 51 |
-| last60d | 2026-08-15 | 1 | 89 | 19 | 5 | 4 | 177 |
-| 90d | 2026-07-16 | 1 | 115 | 26 | 12 | 5 | 213 |
-| last180d | 2026-04-17 | 1 | 161 | 31 | 17 | 7 | 272 |
-| 360d | 2025-10-19 | 2 | 215 | 40 | 43 | 15 | 337 |
-| last720d | 2024-10-24 | 3 | 382 | 47 | 125 | 26 | 513 |
+| 30d | 2026-09-15 | 1 | 25 | 13 | 4 | 4 | 51 |
+| last60d | 2026-08-16 | 1 | 88 | 20 | 5 | 6 | 177 |
+| 90d | 2026-07-17 | 1 | 113 | 27 | 12 | 7 | 213 |
+| last180d | 2026-04-18 | 1 | 161 | 32 | 17 | 9 | 272 |
+| 360d | 2025-10-20 | 2 | 215 | 41 | 43 | 17 | 337 |
+| last720d | 2024-10-25 | 3 | 382 | 48 | 125 | 28 | 513 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:02:16Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:46:20Z._
