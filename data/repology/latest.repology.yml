@@ -1,15 +1,54 @@
-- repo: pkgsrc_2026_2
-  srcname: net/scapy
-  binname: scapy
-  visiblename: net/scapy
-  version: 2.7.0
-  origversion: null
-  status: outdated
-  summary: Interactive packet manipulation program
-  maintainers:
-    - pkgsrc-users@netbsd.org
+- repo: eurolinux_9
+  subrepo: appstream
+  srcname: scapy
+  binnames:
+    - python3-scapy
+  visiblename: scapy
+  version: 2.4.4
+  origversion: 2.4.4-5.el9
+  status: legacy
+  summary: Interactive packet manipulation tool and network scanner
+  licenses:
+    - GPLv2
   categories:
-    - net
+    - Unspecified
+- repo: eurolinux_9
+  subrepo: appstream
+  srcname: scapy
+  binnames:
+    - python3-scapy
+  visiblename: scapy
+  version: 2.5.0
+  origversion: 2.5.0-1.el9
+  status: outdated
+  summary: Interactive packet manipulation tool and network scanner
+  licenses:
+    - GPLv2
+  categories:
+    - Unspecified
+- repo: pclinuxos
+  srcname: scapy
+  visiblename: scapy
+  version: 2.1.0
+  origversion: 2.1.0-1pclos2010
+  status: outdated
+  summary: An interactive packet manipulation tool and network scanner
+  categories:
+    - Networking/Other
+- repo: eurolinux_9
+  subrepo: baseos
+  srcname: scapy
+  binnames:
+    - python3-scapy
+  visiblename: scapy
+  version: 2.4.4
+  origversion: 2.4.4-5.el9
+  status: legacy
+  summary: Interactive packet manipulation tool and network scanner
+  licenses:
+    - GPLv2
+  categories:
+    - Unspecified
 - repo: aix_osp
   srcname: scapy
   visiblename: scapy
@@ -153,6 +192,18 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-2.0-only
+- repo: pkgsrc_2026_2
+  srcname: net/scapy
+  binname: scapy
+  visiblename: net/scapy
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Interactive packet manipulation program
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: alpine_3_19
   subrepo: community
   srcname: scapy
@@ -444,15 +495,18 @@
     - fallback-mnt-aosc@repology
   categories:
     - net
-- repo: pclinuxos
-  srcname: scapy
-  visiblename: scapy
-  version: 2.1.0
-  origversion: 2.1.0-1pclos2010
+- repo: pkgsrc_2026_3
+  srcname: net/scapy
+  binname: scapy
+  visiblename: net/scapy
+  version: 2.7.0
+  origversion: 2.7.0nb1
   status: outdated
-  summary: An interactive packet manipulation tool and network scanner
+  summary: Interactive packet manipulation program
+  maintainers:
+    - pkgsrc-users@netbsd.org
   categories:
-    - Networking/Other
+    - net
 - repo: arch
   subrepo: extra
   srcname: scapy
@@ -768,48 +822,6 @@
     - GPLv2
   categories:
     - Unspecified
-- repo: eurolinux_9
-  subrepo: appstream
-  srcname: scapy
-  binnames:
-    - python3-scapy
-  visiblename: scapy
-  version: 2.4.4
-  origversion: 2.4.4-5.el9
-  status: legacy
-  summary: Interactive packet manipulation tool and network scanner
-  licenses:
-    - GPLv2
-  categories:
-    - Unspecified
-- repo: eurolinux_9
-  subrepo: appstream
-  srcname: scapy
-  binnames:
-    - python3-scapy
-  visiblename: scapy
-  version: 2.5.0
-  origversion: 2.5.0-1.el9
-  status: outdated
-  summary: Interactive packet manipulation tool and network scanner
-  licenses:
-    - GPLv2
-  categories:
-    - Unspecified
-- repo: eurolinux_9
-  subrepo: baseos
-  srcname: scapy
-  binnames:
-    - python3-scapy
-  visiblename: scapy
-  version: 2.4.4
-  origversion: 2.4.4-5.el9
-  status: legacy
-  summary: Interactive packet manipulation tool and network scanner
-  licenses:
-    - GPLv2
-  categories:
-    - Unspecified
 - repo: exherbo
   subrepo: net
   srcname: net-analyzer/scapy
@@ -1083,22 +1095,6 @@
     - GPL-2
   categories:
     - python
-- repo: rosa_2019_1
-  subrepo: contrib/release
-  srcname: scapy
-  binnames:
-    - scapy
-  visiblename: scapy
-  version: 2.4.3
-  origversion: 2.4.3-1
-  status: outdated
-  summary: An interactive packet manipulation tool and network scanner
-  maintainers:
-    - alexander@mezon.ru
-  licenses:
-    - GPLv2+
-  categories:
-    - Networking/Other
 - repo: macports
   srcname: python/py-scapy
   binname: py312-scapy
@@ -1114,10 +1110,18 @@
     - GPL-2
   categories:
     - python
+- repo: slackbuilds
+  srcname: network/scapy
+  visiblename: network/scapy
+  version: 2.5.0
+  origversion: null
+  status: outdated
+  categories:
+    - network
 - repo: macports
   srcname: python/py-scapy
-  binname: py313-scapy
-  visiblename: py313-scapy
+  binname: py314-scapy
+  visiblename: py314-scapy
   version: 2.8.0
   origversion: null
   status: newest
@@ -1131,8 +1135,8 @@
     - python
 - repo: macports
   srcname: python/py-scapy
-  binname: py314-scapy
-  visiblename: py314-scapy
+  binname: py313-scapy
+  visiblename: py313-scapy
   version: 2.8.0
   origversion: null
   status: newest
@@ -1268,8 +1272,8 @@
   licenses:
     - GPL-2.0-only
 - repo: nix_stable_24_05
-  srcname: python312Packages.scapy
-  visiblename: python3.12-scapy
+  srcname: python311Packages.scapy
+  visiblename: python3.11-scapy
   version: 2.5.0
   origversion: null
   status: outdated
@@ -1280,10 +1284,10 @@
   licenses:
     - GPL-2.0-only
   categories:
-    - python312Packages
+    - python311Packages
 - repo: nix_stable_24_05
-  srcname: python311Packages.scapy
-  visiblename: python3.11-scapy
+  srcname: python312Packages.scapy
+  visiblename: python3.12-scapy
   version: 2.5.0
   origversion: null
   status: outdated
@@ -1294,7 +1298,7 @@
   licenses:
     - GPL-2.0-only
   categories:
-    - python311Packages
+    - python312Packages
 - repo: nix_stable_24_11
   srcname: python311Packages.scapy
   visiblename: python3.11-scapy
@@ -1324,8 +1328,8 @@
   categories:
     - python312Packages
 - repo: nix_stable_25_05
-  srcname: python312Packages.scapy
-  visiblename: python3.12-scapy
+  srcname: python313Packages.scapy
+  visiblename: python3.13-scapy
   version: 2.6.1
   origversion: null
   status: outdated
@@ -1336,10 +1340,10 @@
   licenses:
     - GPL-2.0-only
   categories:
-    - python312Packages
+    - python313Packages
 - repo: nix_stable_25_05
-  srcname: python313Packages.scapy
-  visiblename: python3.13-scapy
+  srcname: python312Packages.scapy
+  visiblename: python3.12-scapy
   version: 2.6.1
   origversion: null
   status: outdated
@@ -1350,20 +1354,7 @@
   licenses:
     - GPL-2.0-only
   categories:
-    - python313Packages
-- repo: nix_stable_25_11
-  srcname: python313Packages.scapy
-  visiblename: python3.13-scapy
-  version: 2.6.1
-  origversion: null
-  status: outdated
-  summary: Python-based network packet manipulation program and library
-  maintainers:
-    - bjorn.forsman@gmail.com
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - python313Packages
+    - python312Packages
 - repo: nix_stable_25_11
   srcname: python312Packages.scapy
   visiblename: python3.12-scapy
@@ -1377,6 +1368,19 @@
     - GPL-2.0-only
   categories:
     - python312Packages
+- repo: nix_stable_25_11
+  srcname: python313Packages.scapy
+  visiblename: python3.13-scapy
+  version: 2.6.1
+  origversion: null
+  status: outdated
+  summary: Python-based network packet manipulation program and library
+  maintainers:
+    - bjorn.forsman@gmail.com
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - python313Packages
 - repo: nix_stable_26_05
   srcname: python313Packages.scapy
   visiblename: scapy
@@ -1582,18 +1586,6 @@
     - raphael@offensive-security.com
   categories:
     - net
-- repo: pkgsrc_2026_3
-  srcname: net/scapy
-  binname: scapy
-  visiblename: net/scapy
-  version: 2.7.0
-  origversion: 2.7.0nb1
-  status: outdated
-  summary: Interactive packet manipulation program
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: pkgsrc_current
   srcname: net/scapy
   binname: scapy
@@ -1703,6 +1695,22 @@
     - GPLv2
   categories:
     - Unspecified
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: scapy
+  binnames:
+    - scapy
+  visiblename: scapy
+  version: 2.4.3
+  origversion: 2.4.3-1
+  status: outdated
+  summary: An interactive packet manipulation tool and network scanner
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPLv2+
+  categories:
+    - Networking/Other
 - repo: rosa_13
   subrepo: contrib/release
   srcname: scapy
@@ -1719,14 +1727,6 @@
     - GPLv2+
   categories:
     - Networking/Other
-- repo: slackbuilds
-  srcname: network/scapy
-  visiblename: network/scapy
-  version: 2.5.0
-  origversion: null
-  status: outdated
-  categories:
-    - network
 - repo: t2
   srcname: scapy
   visiblename: scapy
