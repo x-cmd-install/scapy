@@ -43,34 +43,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-02)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
-- **Stars**: 12,655 · **Forks**: 2,287 · **Open issues**: 1,791 · **Contributors**: 482
+- **Stars**: 12,659 · **Forks**: 2,287 · **Open issues**: 1,791 · **Contributors**: 482
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2853 · **Open PRs**: 89 · **Closed issues**: 1725 · **Open issues**: 66 · **Commits**: 7088
+- **Releases**: 17 · **Merged PRs**: 2854 · **Open PRs**: 88 · **Closed issues**: 1726 · **Open issues**: 65 · **Commits**: 7089
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 22 | 20 | 3 | 3 | 21 |
-| last60d | 2026-08-30 | 1 | 75 | 29 | 7 | 6 | 163 |
-| 90d | 2026-07-31 | 1 | 110 | 35 | 11 | 7 | 208 |
-| last180d | 2026-05-02 | 1 | 163 | 43 | 18 | 9 | 274 |
-| 360d | 2025-11-03 | 2 | 222 | 51 | 42 | 16 | 348 |
-| last720d | 2024-11-08 | 2 | 389 | 58 | 122 | 27 | 526 |
+| 30d | 2026-09-30 | 1 | 18 | 18 | 4 | 2 | 22 |
+| last60d | 2026-08-31 | 1 | 76 | 28 | 7 | 5 | 164 |
+| 90d | 2026-08-01 | 1 | 111 | 34 | 12 | 6 | 209 |
+| last180d | 2026-05-03 | 1 | 164 | 42 | 19 | 8 | 275 |
+| 360d | 2025-11-04 | 2 | 223 | 50 | 43 | 15 | 349 |
+| last720d | 2024-11-09 | 2 | 390 | 57 | 123 | 26 | 527 |
 
 ## Distribution status
 
-Reported by **147** distros on [repology.org](https://repology.org/project/scapy). **24** are ✅ on the latest upstream release, **107** are ⚠️ on an older version.
+Reported by **147** distros on [repology.org](https://repology.org/project/scapy). **26** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.7.0` | ⚠️ outdated |
+| Debian unstable | `2.8.0` | ✅ latest |
 | Debian 14 | `2.7.0` | ⚠️ outdated |
 | Debian 13 | `2.6.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.7.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:04:13Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:53:00Z._
