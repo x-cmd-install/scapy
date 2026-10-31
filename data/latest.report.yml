@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.8.0"
   latestRelease: "v2.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T05:52:39Z
+  collectedAt: 2026-10-31T05:43:54Z
 timeline:
   created: 2015-10-01
   lastCommit: 2026-10-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-10-02
   lastPrerelease: 
 popularity:
-  star: 12659
+  star: 12665
   watcher: 219
   fork: 2287
   release: 17
@@ -30,39 +30,39 @@ language:
 totalBytes: 10112642
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 1
-    mergedPR: 18
+    mergedPR: 16
     openPR: 18
     closedIssue: 4
     openIssue: 2
     commit: 22
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 1
-    mergedPR: 76
-    openPR: 28
+    mergedPR: 63
+    openPR: 25
     closedIssue: 7
     openIssue: 5
     commit: 164
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 1
     mergedPR: 111
     openPR: 34
-    closedIssue: 12
+    closedIssue: 10
     openIssue: 6
     commit: 209
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 1
-    mergedPR: 164
+    mergedPR: 163
     openPR: 42
     closedIssue: 19
     openIssue: 8
     commit: 275
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 2
     mergedPR: 223
     openPR: 50
@@ -70,7 +70,7 @@ recent:
     openIssue: 15
     commit: 349
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 2
     mergedPR: 390
     openPR: 57
@@ -86,7 +86,7 @@ total:
   commit: 7089
 ---
 path: /home/runner/.x-repo/github.com/secdev/scapy
-collectedAt: 2026-10-30T05:52:52Z
+collectedAt: 2026-10-31T05:44:04Z
 loc:
   Python:
     code: 216582
