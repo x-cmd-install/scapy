@@ -14,11 +14,11 @@ x install scapy
 
 ## Code insight
 
-Total: **227,465** lines of code across **475** files in the top 5 languages.
+Total: **227,462** lines of code across **475** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 216,912 | 18,502 | 36,205 | 410 |
+| Python | 216,909 | 18,502 | 36,206 | 410 |
 | ReStructuredText | 8,664 | 0 | 3,314 | 35 |
 | Svg | 864 | 28 | 34 | 20 |
 | Jupyter | 302 | 198 | 78 | 7 |
@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-02)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-08
 
 ## Popularity
 
-- **Stars**: 12,682 · **Forks**: 2,288 · **Open issues**: 1,791 · **Contributors**: 490
+- **Stars**: 12,683 · **Forks**: 2,289 · **Open issues**: 1,791 · **Contributors**: 491
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2867 · **Open PRs**: 88 · **Closed issues**: 1728 · **Open issues**: 63 · **Commits**: 7102
+- **Releases**: 17 · **Merged PRs**: 2868 · **Open PRs**: 86 · **Closed issues**: 1729 · **Open issues**: 62 · **Commits**: 7103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 24 | 14 | 3 | 1 | 33 |
-| last60d | 2026-09-09 | 1 | 63 | 25 | 8 | 4 | 117 |
-| 90d | 2026-08-10 | 1 | 119 | 33 | 9 | 5 | 218 |
-| last180d | 2026-05-12 | 1 | 175 | 42 | 20 | 7 | 287 |
-| 360d | 2025-11-13 | 2 | 236 | 50 | 45 | 12 | 360 |
-| last720d | 2024-11-18 | 2 | 403 | 57 | 120 | 23 | 540 |
+| 30d | 2026-10-10 | 0 | 25 | 12 | 4 | 0 | 30 |
+| last60d | 2026-09-10 | 1 | 60 | 22 | 9 | 3 | 83 |
+| 90d | 2026-08-11 | 1 | 119 | 31 | 10 | 3 | 211 |
+| last180d | 2026-05-13 | 1 | 176 | 40 | 21 | 6 | 287 |
+| 360d | 2025-11-14 | 2 | 237 | 48 | 46 | 11 | 361 |
+| last720d | 2024-11-19 | 2 | 404 | 55 | 120 | 22 | 541 |
 
 ## Distribution status
 
-Reported by **148** distros on [repology.org](https://repology.org/project/scapy). **34** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
+Reported by **149** distros on [repology.org](https://repology.org/project/scapy). **36** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:09:30Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:31:45Z._
