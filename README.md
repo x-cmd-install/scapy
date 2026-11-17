@@ -47,40 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,695 · **Forks**: 2,297 · **Open issues**: 1,794 · **Contributors**: 496
+- **Stars**: 12,699 · **Forks**: 2,298 · **Open issues**: 1,794 · **Contributors**: 496
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2896 · **Open PRs**: 76 · **Closed issues**: 1734 · **Open issues**: 60 · **Commits**: 7137
+- **Releases**: 17 · **Merged PRs**: 2896 · **Open PRs**: 77 · **Closed issues**: 1734 · **Open issues**: 60 · **Commits**: 7137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 46 | 9 | 2 | 3 | 57 |
-| last60d | 2026-09-17 | 1 | 75 | 13 | 10 | 3 | 88 |
-| 90d | 2026-08-18 | 1 | 138 | 18 | 12 | 4 | 241 |
-| last180d | 2026-05-20 | 1 | 202 | 30 | 23 | 5 | 307 |
-| 360d | 2025-11-21 | 2 | 265 | 38 | 49 | 10 | 394 |
-| last720d | 2024-11-26 | 2 | 430 | 45 | 123 | 20 | 571 |
-
-## Distribution status
-
-Reported by **148** distros on [repology.org](https://repology.org/project/scapy). **36** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.8.0` | ✅ latest |
-| Debian 14 | `2.8.0` | ✅ latest |
-| Debian 13 | `2.6.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.7.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.5.0` | ⚠️ outdated |
-| Arch | `2.8.0` | ✅ latest |
-| Fedora rawhide | `2.7.0` | ⚠️ outdated |
-| Nix unstable | `2.8.0` | ✅ latest |
-| Void | `2.8.0` | ✅ latest |
-| Alpine edge | `2.8.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.8.0` | ✅ latest |
+| 30d | 2026-10-18 | 0 | 45 | 10 | 2 | 3 | 57 |
+| last60d | 2026-09-18 | 1 | 74 | 14 | 10 | 3 | 88 |
+| 90d | 2026-08-19 | 1 | 138 | 19 | 12 | 4 | 241 |
+| last180d | 2026-05-21 | 1 | 200 | 31 | 23 | 5 | 307 |
+| 360d | 2025-11-22 | 2 | 265 | 39 | 49 | 10 | 394 |
+| last720d | 2024-11-27 | 2 | 430 | 46 | 123 | 20 | 571 |
 
 ## Improve this data
 
@@ -91,4 +73,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:38:48Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:29:36Z._
