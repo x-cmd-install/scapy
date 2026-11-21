@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-02)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 12,704 · **Forks**: 2,297 · **Open issues**: 1,794 · **Contributors**: 496
+- **Stars**: 12,707 · **Forks**: 2,296 · **Open issues**: 1,794 · **Contributors**: 496
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2899 · **Open PRs**: 81 · **Closed issues**: 1734 · **Open issues**: 60 · **Commits**: 7144
+- **Releases**: 17 · **Merged PRs**: 2899 · **Open PRs**: 81 · **Closed issues**: 1734 · **Open issues**: 60 · **Commits**: 7145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 43 | 14 | 2 | 3 | 64 |
-| last60d | 2026-09-21 | 1 | 76 | 18 | 9 | 3 | 95 |
-| 90d | 2026-08-22 | 1 | 141 | 23 | 12 | 4 | 248 |
-| last180d | 2026-05-24 | 1 | 199 | 35 | 23 | 5 | 314 |
-| 360d | 2025-11-25 | 2 | 268 | 43 | 48 | 10 | 401 |
-| last720d | 2024-11-30 | 2 | 432 | 50 | 122 | 20 | 578 |
+| 30d | 2026-10-22 | 0 | 42 | 14 | 1 | 3 | 65 |
+| last60d | 2026-09-22 | 1 | 73 | 18 | 9 | 3 | 96 |
+| 90d | 2026-08-23 | 1 | 141 | 23 | 12 | 4 | 249 |
+| last180d | 2026-05-25 | 1 | 197 | 35 | 23 | 5 | 315 |
+| 360d | 2025-11-26 | 2 | 266 | 43 | 48 | 10 | 402 |
+| last720d | 2024-12-01 | 2 | 432 | 50 | 122 | 20 | 579 |
 
 ## Distribution status
 
-Reported by **148** distros on [repology.org](https://repology.org/project/scapy). **37** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
+Reported by **147** distros on [repology.org](https://repology.org/project/scapy). **38** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for scapy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:33:31Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:14:51Z._
