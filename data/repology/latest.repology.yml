@@ -1,3 +1,27 @@
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: scapy
+  binnames:
+    - scapy
+  visiblename: scapy
+  version: 2.7.0
+  origversion: 2.7.0-1
+  status: outdated
+  summary: An interactive packet manipulation tool and network scanner
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPLv2+
+  categories:
+    - Networking/Other
+- repo: slackbuilds
+  srcname: network/scapy
+  visiblename: network/scapy
+  version: 2.5.0
+  origversion: null
+  status: outdated
+  categories:
+    - network
 - repo: aix_osp
   srcname: scapy
   visiblename: scapy
@@ -193,6 +217,20 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-2.0-only
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: scapy
+  binnames:
+    - python3-scapy
+  visiblename: scapy
+  version: 2.5.0
+  origversion: 2.5.0+dfsg-2
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - raphael@offensive-security.com
+  categories:
+    - net
 - repo: alpine_3_21
   subrepo: community
   srcname: scapy
@@ -435,23 +473,23 @@
 - repo: arch
   subrepo: extra
   srcname: scapy
-  binname: scapy
-  visiblename: scapy
-  version: 2.8.0
-  origversion: 2.8.0-1
-  status: newest
-  summary: Powerful interactive packet manipulation program written in Python (tools)
-  licenses:
-    - GPL-2.0-only
-- repo: arch
-  subrepo: extra
-  srcname: scapy
   binname: python-scapy
   visiblename: python-scapy
   version: 2.8.0
   origversion: 2.8.0-1
   status: newest
   summary: Powerful interactive packet manipulation program written in Python (library)
+  licenses:
+    - GPL-2.0-only
+- repo: arch
+  subrepo: extra
+  srcname: scapy
+  binname: scapy
+  visiblename: scapy
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: newest
+  summary: Powerful interactive packet manipulation program written in Python (tools)
   licenses:
     - GPL-2.0-only
 - repo: aur
@@ -926,7 +964,7 @@
   binname: py312-scapy
   visiblename: net/scapy
   version: 2.8.0
-  origversion: null
+  origversion: 2.8.0_1
   status: newest
   summary: Powerful interactive packet manipulation program in python
   maintainers:
@@ -1097,6 +1135,20 @@
     - GPL-2
   categories:
     - python
+- repo: nix_stable_25_05
+  srcname: python313Packages.scapy
+  visiblename: python3.13-scapy
+  version: 2.6.1
+  origversion: null
+  status: outdated
+  summary: Python-based network packet manipulation program and library
+  maintainers:
+    - dev.primeos@gmail.com
+    - bjorn.forsman@gmail.com
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - python313Packages
 - repo: macports
   srcname: python/py-scapy
   binname: py315-scapy
@@ -1135,7 +1187,21 @@
   visiblename: scapy
   version: 2.6.1
   origversion: 2.6.1-3.mga10
-  status: outdated
+  status: legacy
+  summary: An interactive packet manipulation tool and network scanner
+  licenses:
+    - GPLv2+
+  categories:
+    - Networking/Other
+- repo: mageia_10
+  subrepo: core/updates
+  srcname: scapy
+  binnames:
+    - python3-scapy
+  visiblename: scapy
+  version: 2.8.0
+  origversion: 2.8.0-1.mga10
+  status: newest
   summary: An interactive packet manipulation tool and network scanner
   licenses:
     - GPLv2+
@@ -1158,23 +1224,23 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: scapy
-  binname: python-scapy
-  visiblename: python-scapy
+  binname: scapy
+  visiblename: scapy
   version: 2.8.0
   origversion: 2.8.0-1
   status: newest
-  summary: Powerful interactive packet manipulation program written in Python (library)
+  summary: Powerful interactive packet manipulation program written in Python (tools)
   licenses:
     - GPL-2.0-only
 - repo: manjaro_stable
   subrepo: extra
   srcname: scapy
-  binname: scapy
-  visiblename: scapy
+  binname: python-scapy
+  visiblename: python-scapy
   version: 2.8.0
   origversion: 2.8.0-1
   status: newest
-  summary: Powerful interactive packet manipulation program written in Python (tools)
+  summary: Powerful interactive packet manipulation program written in Python (library)
   licenses:
     - GPL-2.0-only
 - repo: manjaro_testing
@@ -1291,7 +1357,20 @@
     - GPL-2.0-only
   categories:
     - python312Packages
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
+  srcname: python312Packages.scapy
+  visiblename: python3.12-scapy
+  version: 2.6.1
+  origversion: null
+  status: outdated
+  summary: Python-based network packet manipulation program and library
+  maintainers:
+    - bjorn.forsman@gmail.com
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - python312Packages
+- repo: nix_stable_25_11
   srcname: python313Packages.scapy
   visiblename: python3.13-scapy
   version: 2.6.1
@@ -1299,29 +1378,15 @@
   status: outdated
   summary: Python-based network packet manipulation program and library
   maintainers:
-    - dev.primeos@gmail.com
     - bjorn.forsman@gmail.com
   licenses:
     - GPL-2.0-only
   categories:
     - python313Packages
-- repo: nix_stable_25_11
-  srcname: python312Packages.scapy
-  visiblename: python3.12-scapy
-  version: 2.6.1
-  origversion: null
-  status: outdated
-  summary: Python-based network packet manipulation program and library
-  maintainers:
-    - bjorn.forsman@gmail.com
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - python312Packages
-- repo: nix_stable_25_11
+- repo: nix_stable_26_05
   srcname: python313Packages.scapy
-  visiblename: python3.13-scapy
-  version: 2.6.1
+  visiblename: scapy
+  version: 2.7.0
   origversion: null
   status: outdated
   summary: Python-based network packet manipulation program and library
@@ -1344,19 +1409,6 @@
     - GPL-2.0-only
   categories:
     - python314Packages
-- repo: nix_stable_26_05
-  srcname: python313Packages.scapy
-  visiblename: scapy
-  version: 2.7.0
-  origversion: null
-  status: outdated
-  summary: Python-based network packet manipulation program and library
-  maintainers:
-    - bjorn.forsman@gmail.com
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - python313Packages
 - repo: nix_unstable
   srcname: python313Packages.scapy
   visiblename: scapy
@@ -1618,20 +1670,6 @@
   origversion: null
   status: newest
   summary: 'Scapy: interactive packet manipulation tool'
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: scapy
-  binnames:
-    - python3-scapy
-  visiblename: scapy
-  version: 2.5.0
-  origversion: 2.5.0+dfsg-2
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - raphael@offensive-security.com
-  categories:
-    - net
 - repo: raspbian_stable
   subrepo: main
   srcname: scapy
@@ -1694,30 +1732,6 @@
     - GPLv2+
   categories:
     - Networking/Other
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: scapy
-  binnames:
-    - scapy
-  visiblename: scapy
-  version: 2.7.0
-  origversion: 2.7.0-1
-  status: outdated
-  summary: An interactive packet manipulation tool and network scanner
-  maintainers:
-    - alexander@mezon.ru
-  licenses:
-    - GPLv2+
-  categories:
-    - Networking/Other
-- repo: slackbuilds
-  srcname: network/scapy
-  visiblename: network/scapy
-  version: 2.5.0
-  origversion: null
-  status: outdated
-  categories:
-    - network
 - repo: t2
   srcname: scapy
   visiblename: scapy
@@ -1912,19 +1926,3 @@
   summary: Python-based interactive packet manipulation program & library
   licenses:
     - GNU General Public License, version 2.0
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: scapy
-  binnames:
-    - python-scapy
-    - python3-scapy
-  visiblename: scapy
-  version: 2.4.0
-  origversion: 2.4.0-2
-  status: outdated
-  maintainers:
-    - pkg-netmeasure-discuss@lists.alioth.debian.org
-    - irl@debian.org
-  categories:
-    - python
-  vulnerable: true
